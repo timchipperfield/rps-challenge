@@ -17,7 +17,7 @@ A bookmark manager is a website to maintain a collection of links, organised by 
 ```
 User story #1
 As a Makers student
-So that I can see what website I have stored
+So that I can see what websites I like
 I would like to see a list of links
 ```
 ```
