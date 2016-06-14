@@ -1,0 +1,24 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/timchipperfield/Projects/rps-challenge/spec/features/web_helpers.rb": [
+        1,
+        1,
+        0,
+        0,
+        null
+      ],
+      "/Users/timchipperfield/Projects/rps-challenge/spec/features/enter_names_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        0,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1465725511
+  }
+}
